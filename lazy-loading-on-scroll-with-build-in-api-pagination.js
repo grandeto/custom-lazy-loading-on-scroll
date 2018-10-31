@@ -6,7 +6,7 @@
     //HTML elements example: <div id="itemsContainer" style="background:greenyellow; height:auto; min-height:300px; max-height:500px; overflow: scroll; border:1px solid;"><button id="loadItems">Load Items</button></div>
 
     var $itemsContainer = $('#itemsContainer'),
-        $loadAndClearBtn = $('#loadItems');
+        $loadAndClearBtn = $('#loadItems'),
         isPaginationAjaxDone = true,
         isInitDone = false,
         isInitStarted = false,
