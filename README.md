@@ -1,1 +1,1 @@
-# custom-lazy-loading-on-scroll
+# Custom lazy loading pagination on scroll down
