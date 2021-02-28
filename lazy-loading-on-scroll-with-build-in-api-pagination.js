@@ -67,7 +67,6 @@
         let $self = $(this),
             self = this,
             st = $self.scrollTop(),
-            maxLoads,
             visibleItems = $self.children('.item').length;
 
         if (!isInitDone || totalitems == 0) {
